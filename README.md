@@ -1,0 +1,1 @@
+In this lab, we would like to use Amazon.com’s customer rating data to build product recommendation plugin for our website. We will use Amazon Personalize to train the recommender model and to host the recommendation inference. In addition, we will build a simple homepage of web application, shows products that are recommended for the user.
